@@ -1,5 +1,5 @@
 # Facebook POP Demo (swift version)
-## some sample code for facebook pop framework (Swift Version)
+some sample code for facebook pop framework (Swift Version)
 
 ## Include Samples
 - Scale
